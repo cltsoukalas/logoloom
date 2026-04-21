@@ -1,0 +1,26 @@
+# Core ML
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+shap>=0.45.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# API
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+
+# App
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Data
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+pdfplumber>=0.11.0
+
+# Dev
+pytest>=8.2.0
+python-dotenv>=1.0.0
+joblib>=1.4.0
