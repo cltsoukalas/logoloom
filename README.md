@@ -19,7 +19,7 @@ Given any section of a nuclear design document (FSAR section, safety analysis, d
 
 ## Architecture
 
-logoloom is a nuclear domain adaptation of the **NEXUS** (Framework Alignment and Risk Overview System) architecture.
+logoloom is a nuclear domain adaptation of the **NEXUS** (Nuclear Evaluation & X-reference Unified System) architecture.
 
 ```
 Entity of Interest (FSAR section title + text)
